@@ -1,2 +1,3 @@
-- Desenvolvimentp de uma API de exemplo, com métodos GET, POST, PUT e DELETE.
+- Desenvolvimento de uma API utilizando framework Flak e refatorado com Flask-Restful.
+- Com métodos GET, POST, PUT e DELETE.
 - Foi utilizado o Postman para teste e validação.
