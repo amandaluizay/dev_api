@@ -1,0 +1,2 @@
+- Desenvolvimentp de uma API de exemplo, com métodos GET, POST, PUT e DELETE.
+- Foi utilizado o Postman para teste e validação.
